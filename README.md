@@ -29,3 +29,4 @@ Zastosowanie 2 iteracji algorytmu wstecznego powinno dać wynik:
 * ```input_string``` - a domino chain of the string type containing at least 2 domino cubes (exemplary chain: ```'||RR||L||RL|'```)
 * ```mode``` - ```'f'``` - forward iteration or ```'b'``` - backward iteration over chain
 * ```X``` - number of iterations over chain > 0
+* ```-h``` - help (optional argument)
